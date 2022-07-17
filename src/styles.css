@@ -1,0 +1,44 @@
+body {
+  font-family: sans-serif;
+  position: relative;
+}
+
+#clock {
+  text-align: center;
+  font-size: 100px;
+  padding-top: 60px;
+  padding-bottom: 40px;
+  font-weight: bold;
+}
+
+.hidden {
+  display: none;
+}
+
+#login-form {
+  margin: auto;
+  padding-bottom: 70px;
+  width: 400px;
+}
+#greeting {
+  text-align: center;
+  padding-bottom: 70px;
+}
+
+#todo-form {
+  margin-left: 80px;
+}
+#todo-list {
+  margin-top: 25px;
+  margin-left: 50px;
+  font-size: 25px;
+}
+
+#weather {
+  position: fixed;
+  text-align: right;
+  color: white;
+  bottom: 50px;
+  right: 40px;
+  font-size: 25px;
+}
